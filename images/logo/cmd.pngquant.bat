@@ -1,0 +1,1 @@
+pngquant --force --quality=50-70 aflogo-o.png
