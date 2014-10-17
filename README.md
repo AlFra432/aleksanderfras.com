@@ -1,6 +1,6 @@
 #**aleksanderfras.com**
 
-Static front page as seen on [aleksanderfras.com](http://aleksanderfras.com)
+Static front page as seen on [aleksanderfras.com](http://goo.gl/gCEHKJ)
 
 ##**Animation**
 Animation on page has been completely made with Julian Shapiro's [velocity.js](https://github.com/julianshapiro/velocity).
