@@ -11,4 +11,4 @@ Javascript has been optimized with [r.js](https://github.com/jrburke/r.js) optim
 Logo image has been compressed lossy with [pngquant](https://github.com/pornel/pngquant). Image filesize has been reduced for almost 75%.
 
 ##**LICENSES**
-Everything except for logo is released under [MIT](http://opensource.org/licenses/MIT) license. [Logo](https://github.com/AlFra432/aleksanderfras.com/blob/master/images/logo/aflogo-o.png) is my personal work and trademark and I don't allow any kind of usage, modifications, distributions... 
+Everything except for logo is released under [MIT](http://opensource.org/licenses/MIT) license. [Logo](https://github.com/AlFra432/aleksanderfras.com/blob/master/images/logo/aflogo-o.png) is mine personal work, trademark and mark. Everyone (except author) is prohibited from reproducing, adapting, or distributing copies of this logo.
