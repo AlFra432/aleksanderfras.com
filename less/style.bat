@@ -1,1 +1,1 @@
-lessc "style.less" "style.min.css" -x
+lessc "style.less" "style.min.css" --compress
