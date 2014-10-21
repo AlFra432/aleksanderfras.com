@@ -1,1 +1,1 @@
-lessc "style.less" "style.min.css" --compress
+lessc "style.less" "style.min.css" --clean-css
