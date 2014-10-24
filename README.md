@@ -1,4 +1,4 @@
-#**aleksanderfras.com**
+#**aleksanderfras.com - Home**
 Home web page as seen on [aleksanderfras.com](http://goo.gl/gCEHKJ)
 
 ##**Animation**
