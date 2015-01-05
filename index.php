@@ -37,8 +37,8 @@
 			<div class="line social-icons-line">
 				<a id="github-link" href="//goo.gl/Q9eU5n"  target="_blank" title="github" class="social-icon-container social-github"><div class="fa fa-github-alt fa-4x"></div></a>
 				<a id="twitter-link" href="//goo.gl/N7a6uk" target="_blank" title="twitter" class="social-icon-container social-twitter"><div class="fa fa-twitter fa-4x"></div></a>
-				<a id="blog-link" href="//blog.aleksanderfras.com" target="_blank"  title="blog" class="social-icon-container social-wordpress"><div class="fa fa-wordpress fa-4x"></div></a>
 				<a id="info-link" href="//about.aleksanderfras.com" target="_blank" title="about" class="social-icon-container social-info"><div class="fa fa-info fa-4x"></div></a>
+				<a id="blog-link" href="//blog.aleksanderfras.com" target="_blank"  title="blog" class="social-icon-container social-wordpress"><div class="fa fa-wordpress fa-4x"></div></a>
 			</div>
 		</section>
 		<script>
